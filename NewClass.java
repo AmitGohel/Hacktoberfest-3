@@ -17,6 +17,7 @@ public class NewClass {
         
         int countA=0;
         int countB =0;
+        //compares values
         for(int i=0;i<3;i++){
             if(ab[i] > ab[i+3])
             {
